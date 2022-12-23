@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jodie Kurnia</h1>
 <br/>
 
-- 👋 Hi, I’m @jodiekurnia
+
 - 👀 I’m interested in AI Programing, Software Enginer, and System Analyst
 - 🌱 I’m currently learning Python, and JS
 - 📫 [Reach Me](mailto:jodiekurnia@outlook.com)
